@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: fe2ef76ec5fe5d145b5a86123b5f4a10
+timeCreated: 1493070883
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: balls
+    100002: cloth
+    100004: Cube
+    100006: cue
+    100008: cue_001
+    100010: cue_001_MeshPart0
+    100012: cue_001_MeshPart1
+    100014: cue_001_MeshPart2
+    100016: cue_001_MeshPart3
+    100018: cue_001_MeshPart4
+    100020: cue_MeshPart0
+    100022: cue_MeshPart1
+    100024: cue_MeshPart2
+    100026: cue_MeshPart3
+    100028: cue_MeshPart4
+    100030: cussions
+    100032: diamonds
+    100034: diamonds_MeshPart0
+    100036: diamonds_MeshPart1
+    100038: diamonds_MeshPart2
+    100040: diamonds_MeshPart3
+    100042: frame_side
+    100044: frame_top
+    100046: light_plane
+    100048: pockets
+    100050: pockets_MeshPart0
+    100052: pockets_MeshPart1
+    100054: //RootNode
+    100056: poten
+    100058: poten_MeshPart0
+    100060: poten_MeshPart1
+    100062: Logo
+    100064: Logo_MeshPart0
+    100066: Logo_MeshPart1
+    400000: balls
+    400002: cloth
+    400004: Cube
+    400006: cue
+    400008: cue_001
+    400010: cue_001_MeshPart0
+    400012: cue_001_MeshPart1
+    400014: cue_001_MeshPart2
+    400016: cue_001_MeshPart3
+    400018: cue_001_MeshPart4
+    400020: cue_MeshPart0
+    400022: cue_MeshPart1
+    400024: cue_MeshPart2
+    400026: cue_MeshPart3
+    400028: cue_MeshPart4
+    400030: cussions
+    400032: diamonds
+    400034: diamonds_MeshPart0
+    400036: diamonds_MeshPart1
+    400038: diamonds_MeshPart2
+    400040: diamonds_MeshPart3
+    400042: frame_side
+    400044: frame_top
+    400046: light_plane
+    400048: pockets
+    400050: pockets_MeshPart0
+    400052: pockets_MeshPart1
+    400054: //RootNode
+    400056: poten
+    400058: poten_MeshPart0
+    400060: poten_MeshPart1
+    400062: Logo
+    400064: Logo_MeshPart0
+    400066: Logo_MeshPart1
+    2300000: balls
+    2300002: cloth
+    2300004: Cube
+    2300006: cue_001_MeshPart0
+    2300008: cue_001_MeshPart1
+    2300010: cue_001_MeshPart2
+    2300012: cue_001_MeshPart3
+    2300014: cue_001_MeshPart4
+    2300016: cue_MeshPart0
+    2300018: cue_MeshPart1
+    2300020: cue_MeshPart2
+    2300022: cue_MeshPart3
+    2300024: cue_MeshPart4
+    2300026: cussions
+    2300028: diamonds_MeshPart0
+    2300030: diamonds_MeshPart1
+    2300032: diamonds_MeshPart2
+    2300034: diamonds_MeshPart3
+    2300036: frame_side
+    2300038: frame_top
+    2300040: light_plane
+    2300042: pockets_MeshPart0
+    2300044: pockets_MeshPart1
+    2300046: poten_MeshPart0
+    2300048: poten_MeshPart1
+    2300050: Logo_MeshPart0
+    2300052: Logo_MeshPart1
+    3300000: balls
+    3300002: cloth
+    3300004: Cube
+    3300006: cue_001_MeshPart0
+    3300008: cue_001_MeshPart1
+    3300010: cue_001_MeshPart2
+    3300012: cue_001_MeshPart3
+    3300014: cue_001_MeshPart4
+    3300016: cue_MeshPart0
+    3300018: cue_MeshPart1
+    3300020: cue_MeshPart2
+    3300022: cue_MeshPart3
+    3300024: cue_MeshPart4
+    3300026: cussions
+    3300028: diamonds_MeshPart0
+    3300030: diamonds_MeshPart1
+    3300032: diamonds_MeshPart2
+    3300034: diamonds_MeshPart3
+    3300036: frame_side
+    3300038: frame_top
+    3300040: light_plane
+    3300042: pockets_MeshPart0
+    3300044: pockets_MeshPart1
+    3300046: poten_MeshPart0
+    3300048: poten_MeshPart1
+    3300050: Logo_MeshPart0
+    3300052: Logo_MeshPart1
+    4300000: cue_001_MeshPart0
+    4300002: cue_001_MeshPart1
+    4300004: cue_001_MeshPart2
+    4300006: cue_001_MeshPart3
+    4300008: cue_001_MeshPart4
+    4300010: Cube
+    4300012: light_plane
+    4300014: diamonds_MeshPart0
+    4300016: diamonds_MeshPart1
+    4300018: diamonds_MeshPart2
+    4300020: diamonds_MeshPart3
+    4300022: cussions
+    4300024: balls
+    4300026: poten_MeshPart0
+    4300028: poten_MeshPart1
+    4300030: frame_side
+    4300032: cloth
+    4300034: pockets_MeshPart0
+    4300036: pockets_MeshPart1
+    4300038: frame_top
+    4300040: cue_MeshPart0
+    4300042: cue_MeshPart1
+    4300044: cue_MeshPart2
+    4300046: cue_MeshPart3
+    4300048: cue_MeshPart4
+    4300050: Logo_MeshPart0
+    4300052: Logo_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
